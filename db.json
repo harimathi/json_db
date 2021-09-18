@@ -1,0 +1,15 @@
+{
+    "json_details": {
+        "tansfer_details": {
+            "buyer_email": "albertyeong@email.com",
+            "importing_from": "Singapore",
+            "invoice_amount": "USD 20,000"
+        },
+        "buyer_details": {
+            "company": "Tiong Hoe Trading Company Pte Ltd",
+            "location": "Singapore",
+            "contact_person": "Albert Yeong",
+            "contact_email": "albertyeong@email.com"
+        }
+    }
+}
